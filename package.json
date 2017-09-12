@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusGold/FizzBuzz.git"
+  },
+  "keywords": [
+    "Fizz",
+    "Buzz",
+    "FizzBuzz"
+  ],
+  "author": "GusGold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GusGold/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/GusGold/FizzBuzz#readme",
+  "dependencies": {}
+}
